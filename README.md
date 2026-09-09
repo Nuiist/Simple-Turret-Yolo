@@ -24,7 +24,6 @@ PL:
 
 Nie wiem, co należy wyjaśnić w tym kodzie, ALE
 
-
-Zdobyć żądane dane w config i umieścić wywołanie obrotu w set_target
+Wprowadź żądane dane w config i dodaj wywołanie obrotu w set_target
 
 
